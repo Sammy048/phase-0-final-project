@@ -5,6 +5,9 @@
 - Build a website using HTML, CSS and JavaScript
 - Publish a website
 
+## Github Live-link
+* https://sammy048.github.io/phase-0-final-project/
+
 ## Introduction
 
 You've been learning HTML, CSS, and JavaScript over the previous lessons. You've
